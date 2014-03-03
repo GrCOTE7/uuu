@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"color"
+			],
+			[
+				"tt",
+				"text-transform"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"f",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "uuu.php",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "$(function  () {\nvar $scope=function ($scope) {\nscope.lionel='777';\n}\n});",
+			"file": "js/scr.js",
+			"file_size": 86,
+			"file_write_time": 130383512837957237,
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"node",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"saab",
+				"SassBeautify"
+			],
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Project: Save As"
+			],
+			[
+				"inst",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"dir",
+			"ls -l",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cote/.config/sublime-text-3/Packages/Terminal/Base File.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/opt/lampp/htdocs/uuu/css/style.css",
+		"/home/cote/.config/sublime-text-3/Packages/PhpCodeGen/phpcodegen.sublime-settings",
+		"/home/cote/.config/sublime-text-3/Packages/Abacus/Abacus.sublime-settings",
+		"/opt/lampp/htdocs/uuu/header_ca.php",
+		"/opt/lampp/htdocs/uuu/uuu.sublime-project",
+		"/home/cote/.config/sublime-text-2/Packages/User/uuu.py",
+		"/home/cote/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/cote/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/opt/lampp/htdocs/uuu/stle.css",
+		"/home/cote/Bureau/uuu/php",
+		"/opt/sublime_text/changelog.txt",
+		"/home/cote/Bureau/win8/Vagrantfile",
+		"/opt/lampp/htdocs/uuu/uuu.php",
+		"/opt/lampp/etc/httpd.conf",
+		"/mnt/iso/isolinux/isolinux.cfg",
+		"/etc/apt/sources.list",
+		"/etc/apt/sources.list.save",
+		"/etc/apt/sources.list.d/google-earth.list.save",
+		"/mnt/iso/isolinux/fr.tr",
+		"/opt/lampp/htdocs/pui100.com/c5/563b1/a/ngBoilerplate/app/styles/config.rb",
+		"/home/cote/Bureau/win8/vagrant-windows-master/README.md",
+		"/opt/lampp/htdocs/pui100.com/c5/563b1/a/ng-boilerplate/bower.json",
+		"/home/cote/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/cote/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/cote/.config/sublime-text-2/Packages/User/Plain text.sublime-settings",
+		"/sg/c5.pui100.com/563b1/a/nodeJS/app/styles/config.rb",
+		"/sg/c5.pui100.com/563b1/a/nodeJS/app/bower_components/sass-bootstrap/lib/bootstrap.scss",
+		"/sg/c5.pui100.com/563b1/a/nodeJS/app/scripts/app.js",
+		"/EULA",
+		"/config.inc.php",
+		"/usr/games/alien-arena",
+		"/home/cote/.zaz/cote.profile",
+		"/sg/c5.pui100.com/563b1/a/nodeJS/app/views/main.html",
+		"/sg/c5.pui100.com/563b1/a/nodeJS/app/views/about.html",
+		"/home/cote/app/scripts/app.js",
+		"/home/cote/app/index.html",
+		"/opt/lampp/htdocs/pui100.com/c5/563b1/a/nodeJS/nodejs.js",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/a/scripts/test_bootstrap.php",
+		"/usr/lib/node_modules/yo/node/.git/logs/refs/remotes/origin/HEAD",
+		"/home/cote/Téléchargements/javafx-samples-8.0.0/samples_readme.txt",
+		"/home/wwwcote7/.htpasswds/public_html/conf/passwd",
+		"/home/cote/Bureau/pui100-export.bin",
+		"/opt/lampp/htdocs/Angular/npm-debug.log",
+		"/usr/lib/node_modules/yo/readme.md",
+		"/sg/c5.pui100.com/563b1/a/scripts/todomvc/main.css",
+		"/sg/c5.pui100.com/563b1/a/scripts/todomvc/style.css",
+		"/sg/c5.pui100.com/563b1/a/scripts/todomvc/js/app.js",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/README.md",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/concrete/config/base.php",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/concrete/config/theme_paths.php",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/concrete/config/version.php",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/concrete/config/app.php",
+		"/opt/lampp/htdocs/pui100.com/c5/563b2/config/site.php",
+		"/sg/c5.pui100.com/563b1/a/scripts/todomvc/todo.php",
+		"/sg/c5.pui100.com/563b1/a/scripts/todomvc/a.php",
+		"/sg/c5.pui100.com/563b1/a/scripts/10trucs/a.php",
+		"/home/cote/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/sg/testhtml/HTML5Application/public_html/scss/style.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node",
+			"no",
+			"node",
+			"body",
+			"class",
+			"body{\n    \n}",
+			"condition"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "uuu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/scr.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"project": "uuu.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hd",
+				"header_ca.php"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"s",
+				"css/style.css"
+			],
+			[
+				"he",
+				"header_ca.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
