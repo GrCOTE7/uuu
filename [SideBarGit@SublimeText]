@@ -1,0 +1,21 @@
+[SideBarGit@SublimeText] 
+[master (root-commit) e19be08] V1
+ Committer: COTE <cote@smtp.mail.yahoo.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "grcote7"
+    git config --global user.email grcote7@gmail.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 542 insertions(+)
+ create mode 160000 css
+ create mode 100755 header_ca.php
+ create mode 100644 js/scr.js
+ create mode 100755 uuu.php
+ create mode 100644 uuu.sublime-project
+ create mode 100644 uuu.sublime-workspace

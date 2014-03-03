@@ -1,8 +1,9 @@
 <?php
 $param_c7 = array(1, 0, 'ST 3');
+
 include('header_ca.php');
 ?>
-  <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+  	<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular.min.js"></script>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <div>
